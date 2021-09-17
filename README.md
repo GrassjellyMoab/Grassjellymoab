@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Grassjellymoab
+- 👋 Hi, I’m @Grassjellymoab, 19 this year
 - 👀 I’m interested in creating a website
-- 🌱 I’m currently learning Python & C
+- 🌱 I’m currently learning Python & C and also HTML, CSS, JS now as i want to try developing a simple webpage
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
