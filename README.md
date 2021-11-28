@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grassjellymoab, 19 this year
-- 👀 I’m interested in creating a website
-- 🌱 I’m currently learning Python & C and also HTML, CSS, JS now as i want to try developing a simple webpage
+- 👀 I’m interested in trying out different projects to discover my passion and my current goal is to try out of full stack web development. In future I would love to try out cyber security too and machine learning!
+- 🌱 I've currently learnt Python, C, HTML, CSS, JS (hopefully improve at them more in future) and am ready to start learning mySQL!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
