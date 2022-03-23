@@ -6,8 +6,7 @@
   2) Coding in Python
   3) Very Basic C
 - ✍🏻 What I am currently learning:
-  1) React Framework
-  2) Data Science & Machine Learning
+  - React Framework
 - Email: jc1jc2jc1jc1@gmail.com 
 - Alt Email: grassjellymoab@gmail.com
 
